@@ -1,0 +1,12 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "u_d_TSETMC_AdjClose_linearly_filled"
+version = "0.0.0"
+authors = [{ name = "Mahdi Mir", email = "imahdimir@gmail.com" }]
+readme = "README.md"
+dependencies = [
+
+]
